@@ -1,0 +1,4 @@
+﻿  Serv.cpp
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(91,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(365,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Chat_server.vcxproj -> C:\Users\ymin0\Desktop\MFC_Chat_server\Debug\Chat_server.exe

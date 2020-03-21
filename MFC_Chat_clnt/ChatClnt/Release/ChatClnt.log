@@ -1,0 +1,8 @@
+﻿  ClntSocket.cpp
+C:\Users\ymin0\Desktop\Chat_clnt\ChatClnt\ClntSocket.cpp(88,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  2 of 602 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ChatClnt.vcxproj -> C:\Users\ymin0\Desktop\Chat_clnt\Release\ChatClnt.exe
