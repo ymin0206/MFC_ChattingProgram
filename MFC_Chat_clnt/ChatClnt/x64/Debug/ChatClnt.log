@@ -1,0 +1,12 @@
+﻿  ChatClnt.cpp
+  ChatClntDoc.cpp
+  ChatClntView.cpp
+C:\Users\ymin0\Desktop\Chat_clnt\ChatClnt\ChatClntView.cpp(90,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\Chat_clnt\ChatClnt\ChatClntView.cpp(91,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\Chat_clnt\ChatClnt\ChatClntView.cpp(92,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\Chat_clnt\ChatClnt\ChatClntView.cpp(196,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  LoginDlg.cpp
+  MainFrm.cpp
+  MsgDlg.cpp
+  코드를 생성하고 있습니다...
+  ChatClnt.vcxproj -> C:\Users\ymin0\Desktop\Chat_clnt\x64\Debug\ChatClnt.exe

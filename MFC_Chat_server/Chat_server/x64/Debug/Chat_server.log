@@ -1,0 +1,12 @@
+﻿  main.cpp
+  Serv.cpp
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(90,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(341,34): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(350,62): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(568,32): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(575,57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\Chat_server\Serv.cpp(597,41): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+Serv.obj : error LNK2005: "void __cdecl ErrMsg(char const *,bool)" (?ErrMsg@@YAXPEBD_N@Z)이(가) main.obj에 이미 정의되어 있습니다.
+Serv.obj : error LNK2005: "void __cdecl SplitIDPW(bool,char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > *)" (?SplitIDPW@@YAX_NPEBDPEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2@Z)이(가) main.obj에 이미 정의되어 있습니다.
+C:\Users\ymin0\Desktop\MFC_Chat_server\x64\Debug\Chat_server.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
